@@ -34,7 +34,7 @@ if (randomNumber>randomNumber1){
 }else if (randomNumber==randomNumber1){
     document.querySelector("h2").innerHTML = "Draw";
 }else {
-    document.querySelector("h2").innerHTML = "Player 2 Wins";
+    document.querySelector("h2").innerHTML = "Alex Wins";
 }
 
 
